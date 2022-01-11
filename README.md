@@ -23,7 +23,7 @@ A Tool that makes geting Info Esay
 ### Modules
 
 - Must Install in Folder of WinDevTools
-Cmd Command:
+- Cmd Command:
 ```bash
   py -m pip install -r requirements.txt
 ```
