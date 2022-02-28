@@ -16,16 +16,20 @@ A Tool that makes geting Info Esay
 
 ## Requirements
 
-- Python 3.10
-- Windows 10 or Windows 11
+- Python 3.10 or higher
+- Windows or Linux
 ## Installation
 
 ### Modules
 
 - Must Install in Folder of WinDevTools
-- Cmd Command:
+- Windows Command:
 ```bash
   py -m pip install -r requirements.txt
+```
+- Linux Command: 
+```bash
+  python3 -m pip install -r requirements.txt
 ```
     
 ## Authors
