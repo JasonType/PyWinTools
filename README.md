@@ -29,7 +29,7 @@ A Tool that makes geting Info Esay
 ```
 - Linux Command: 
 ```bash
-  python3 -m pip install -r requirements.txt
+  sudo python3 -m pip install -r requirements.txt
 ```
     
 ## Authors
