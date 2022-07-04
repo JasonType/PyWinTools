@@ -1,7 +1,7 @@
 
 # WinDevTools
 
-A Tool that makes geting Info Esay 
+A Tool that makes geting Info Esay for Windows 10 / 11
 
 
 ## Features
