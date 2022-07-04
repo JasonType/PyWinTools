@@ -1,7 +1,7 @@
 
 # WinDevTools
 
-A Tool that makes geting Info Esay
+A Tool that makes geting Info Esay 
 
 
 ## Features
@@ -9,7 +9,7 @@ A Tool that makes geting Info Esay
 - IP Lockup
 - Proxy Scrape
 - Show IP
-- WiFiPass
+- WiFi hacking Tool
 - IP Pinger
 - DDoS Tool
 
@@ -17,7 +17,7 @@ A Tool that makes geting Info Esay
 ## Requirements
 
 - Python 3.10 or higher
-- Windows or Linux
+- Windows 10 / 11 or Linux
 ## Installation
 
 ### Modules
@@ -27,10 +27,10 @@ A Tool that makes geting Info Esay
 ```bash
   py -m pip install -r requirements.txt
 ```
-- Linux Command: 
-```bash
-  sudo python3 -m pip install -r requirements.txt
-```
+//- Linux Command: 
+//```bash
+//  sudo python3 -m pip install -r requirements.txt
+//```
     
 ## Authors
 
