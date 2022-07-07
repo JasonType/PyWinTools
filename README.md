@@ -3,6 +3,7 @@
 
 A Tool that makes geting Info Esay for Windows 10 / 11
 
+!!The Tool is not Released and not fully done!!
 
 ## Features
 
