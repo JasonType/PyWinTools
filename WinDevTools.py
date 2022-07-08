@@ -69,7 +69,7 @@ def ShowIP():
 def IPlockup():
     os.system("title WinTools - IP Lockup")
     ip_input = input('  Enter IP:  ')
-    response = requests.get("http://extreme-ip-lookup.com/json/" + ip_input)
+    response = requests.get("http://extreme-ip-lookup.com/json/" + ip_input + "?key=8H4XWqid8H5JKhqR9iWr")
     response.json()
     pprint.pprint(response.json())
     time.sleep(10)
