@@ -7,21 +7,24 @@ A Tool that makes geting Info Esay for Windows 10 / 11
 
 ## Features
 
-- IP Lockup
-- Proxy Scrape
+- IP Lockup [Only Python] 
+- Proxy Scrape [Only Python]
 - Show IP
 - WiFi hacking Tool
 - IP Pinger
-- DDoS Tool
+- DDoS Tool [Only Python]
 
 
 ## Requirements
-
+### Batch Version
+- Windows 10 / 11
+### Python Version
 - Python 3.10 or higher
 - Windows 10 / 11
 ## Installation
 
-### Modules
+### Python Modules
+
 
 - Must Install in Folder of WinDevTools
 - Windows Command:
@@ -31,5 +34,5 @@ A Tool that makes geting Info Esay for Windows 10 / 11
     
 ## Authors
 
-- [@Jasonbuss57YT](https://www.github.com/Jasonbuss57YT)
+- [@JasonType](https://www.github.com/JasonType)
 
