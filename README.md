@@ -3,34 +3,27 @@
 
 A Tool that makes geting Info Esay for Windows 10 / 11
 
-!!The Tool is not Released and not fully done!!
-
 ## Features
 
-- IP Lockup [Only Python] 
-- Proxy Scrape [Only Python]
+- IP Lockup
+- Proxy Scrape
 - Show IP
-- WiFi hacking Tool
+- WiFiPass
 - IP Pinger
-- DDoS Tool [Only Python]
+- DDoS Tool
 
+## Versions
+- [Batch](https://github.com/JasonType/WinDevTools/tree/Batch)
+- [Python](https://github.com/JasonType/WinDevTools/tree/Python)
 
 ## Requirements
+
 ### Batch Version
 - Windows 10 / 11
+
 ### Python Version
 - Python 3.10 or higher
 - Windows 10 / 11
-## Installation
-
-### Python Modules
-
-
-- Must Install in Folder of WinDevTools
-- Windows Command:
-```bash
-  py -m pip install -r requirements.txt
-```
     
 ## Authors
 
