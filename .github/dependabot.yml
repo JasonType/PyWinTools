@@ -5,7 +5,10 @@
 
 version: 2
 updates:
-  - package-ecosystem: "pip" # See documentation for possible values
+    spackage-ecosystem: "pip" # See documentation for possible values
     directory: "/" # Location of package manifests
     schedule:
-      interval: ""
+      interval: "daily"
+    target-branch: "Python"
+    labels:
+      "pip dependencies"
