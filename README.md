@@ -3,7 +3,7 @@
 
 ### Python Version
 
-- Unzip the file "WinDevTools_v1.0_Batch.zip"
+- Unzip the file "WinDevTools_v1.0_Python.zip"
 - Open the new unziped folder and do the Installation: Python Modules
 
 
