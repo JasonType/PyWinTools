@@ -1,6 +1,7 @@
+![License Status](https://img.shields.io/github/license/JasonType/WinDevTools?style=flat-square) ![Isseues Status](https://img.shields.io/github/issues/JasonType/WinDevTools?style=flat-square) ![Download Status](https://img.shields.io/github/downloads/JasonType/WinDevTools/total?style=flat-square)
+
 
 # WinDevTools
-
 A Tool that makes geting Info Esay for Windows 10 / 11
 
 ## Features
