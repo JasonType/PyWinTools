@@ -1,12 +1,40 @@
-![License Status](https://img.shields.io/github/license/JasonType/WinDevTools?style=flat-square) ![Forks Status](https://img.shields.io/github/forks/JasonType/WinDevTools?style=flat-square) ![Stars Status](https://img.shields.io/github/stars/JasonType/WinDevTools?style=flat-square) ![Issues Status](https://img.shields.io/github/issues/JasonType/WinDevTools?style=flat-square) ![Pull Request Status](https://img.shields.io/github/issues-pr/JasonType/WinDevTools?style=flat-square)
+# WinDevTools
+<h4 align="center">A Tool that makes geting Info Esay for Windows 10 / 11</h4>
+
+<p align="center">
+<a href="https://github.com/JasonType/WinDevTools/blob/master/LICENSE" target="blank">
+<img src="https://img.shields.io/github/license/JasonType/WinDevTools?style=flat-square" alt="licence" />
+</a>
+<a href="https://github.com/JasonType/WinDevTools/fork" target="blank">
+<img src="https://img.shields.io/github/forks/JasonType/WinDevTools?style=flat-square" alt="forks"/>
+</a>
+<a href="https://github.com/JasonType/WinDevTools/stargazers" target="blank">
+<img src="https://img.shields.io/github/stars/JasonType/WinDevTools?style=flat-square" alt="stars"/>
+</a>
+<a href="https://github.com/JasonType/WinDevTools/issues" target="blank">
+<img src="https://img.shields.io/github/issues/JasonType/WinDevTools?style=flat-square" alt="issues" />
+</a>
+<a href="https://github.com/JasonType/WinDevTools/pulls" target="blank">
+<img src="https://img.shields.io/github/issues-pr/JasonType/WinDevTools?style=flat-square" alt="pull-requests"/>
+</a>
+
+
+<p align="center">
+    <a href="https://github.com/JasonType/WinDevTools/issues/new/choose">Report Bug</a>
+    ·
+    <a href="https://github.com/JasonType/WinDevTools/issues/new/choose">Request Feature</a>
+    
+    
+   
+</p>
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 
-# WinDevTools
-A Tool that makes geting Info Esay for Windows 10 / 11
+
+
 
 ## Features
 
