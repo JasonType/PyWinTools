@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "JasonType",
+      "name": "JasonType",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51136022?v=4",
+      "profile": "https://github.com/JasonType",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "WinDevTools",
+  "projectOwner": "JasonType",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
