@@ -2,7 +2,7 @@
 <h4 align="center">A Tool that makes geting Info Esay for Windows 10 / 11</h4>
 
 <p align="center">
-<a href="https://github.com/JasonType/WinDevTools/blob/master/LICENSE" target="blank">
+<a href="https://github.com/JasonType/WinDevTools/blob/main/LICENSE" target="blank">
 <img src="https://img.shields.io/github/license/JasonType/WinDevTools?style=flat-square" alt="licence" />
 </a>
 <a href="https://github.com/JasonType/WinDevTools/fork" target="blank">
