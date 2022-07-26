@@ -23,8 +23,8 @@
     <a href="https://github.com/JasonType/WinDevTools/issues/new/choose">Report Bug</a>
     ·
     <a href="https://github.com/JasonType/WinDevTools/issues/new/choose">Request Feature</a>
-    
-    
+    ·
+    <a href="https://github.com/JasonType/WinDevTools/issues/new/choose">Security Vulnerability</a>
    
 </p>
 
