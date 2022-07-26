@@ -1,4 +1,4 @@
-![License Status](https://img.shields.io/github/license/JasonType/WinDevTools?style=flat-square) ![Isseues Status](https://img.shields.io/github/issues/JasonType/WinDevTools?style=flat-square) ![Version Status](https://img.shields.io/badge/Version-v0.1-brightgreen?style=flat-square) ![Download Status](https://img.shields.io/github/downloads/JasonType/WinDevTools/total?style=flat-square)
+![License Status](https://img.shields.io/github/license/JasonType/WinDevTools?style=flat-square) ![Isseues Status](https://img.shields.io/github/issues/JasonType/WinDevTools?style=flat-square) ![Version Status](https://img.shields.io/badge/version-v0.1-brightgreen?style=flat-square) ![Download Status](https://img.shields.io/github/downloads/JasonType/WinDevTools/total?style=flat-square)
 
 
 # WinDevTools
