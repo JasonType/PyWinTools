@@ -1,4 +1,5 @@
-![License Status](https://img.shields.io/github/license/JasonType/WinDevTools?style=flat-square) ![Isseues Status](https://img.shields.io/github/issues/JasonType/WinDevTools?style=flat-square) ![Version Status](https://img.shields.io/badge/version-v0.1-brightgreen?style=flat-square) ![Download Status](https://img.shields.io/github/downloads/JasonType/WinDevTools/total?style=flat-square)
+![License Status](https://img.shields.io/github/license/JasonType/WinDevTools?style=flat-square) ![Forks Status](https://img.shields.io/github/forks/JasonType/WinDevTools?style=flat-square) ![Stars Status](https://img.shields.io/github/stars/JasonType/WinDevTools?style=flat-square) ![Issues Status](https://img.shields.io/github/issues/JasonType/WinDevTools?style=flat-square) ![Pull Request Status](https://img.shields.io/github/issues-pr/JasonType/WinDevTools?style=flat-square)
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
