@@ -1,6 +1,6 @@
 ![License Status](https://img.shields.io/github/license/JasonType/WinDevTools?style=flat-square) ![Isseues Status](https://img.shields.io/github/issues/JasonType/WinDevTools?style=flat-square) ![Version Status](https://img.shields.io/badge/version-v0.1-brightgreen?style=flat-square) ![Download Status](https://img.shields.io/github/downloads/JasonType/WinDevTools/total?style=flat-square)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 
@@ -29,14 +29,10 @@ A Tool that makes geting Info Esay for Windows 10 / 11
 - Python 3.10 or higher
 - Windows 10 / 11
     
-## Authors
-
-- [@JasonType](https://www.github.com/JasonType)
-
 
 ## Contributors ✨
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -52,4 +48,3 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
