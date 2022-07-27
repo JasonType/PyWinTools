@@ -3,7 +3,7 @@
 ### Batch Version
 
 
-- Unzip the file "WinDevTools_v1.0_Batch.zip"
+- Unzip the file "WinDevTools_v0.1_Batch.zip"
 
 ### Run Programm
 
