@@ -7,7 +7,7 @@
 
 ### Run Programm
 
-- To run the Programm double click the file "WinDevTools.py"
+- To run the Programm double click the file "WinDevTools.bat"
 
 
     
