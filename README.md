@@ -58,9 +58,12 @@
 - Windows 10 / 11
 
 ## Versions
-- [Batch](https://github.com/JasonType/WinDevTools/tree/Batch)
-- [Python](https://github.com/JasonType/WinDevTools/tree/Python)
-    
+
+<p align="center">
+    <a href="https://github.com/JasonType/WinDevTools/tree/Batch">Batch</a>
+    |
+    <a href="https://github.com/JasonType/WinDevTools/tree/Python">Python</a>   
+</p>    
 
 ## Contributors ✨
 
