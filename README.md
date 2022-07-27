@@ -45,10 +45,6 @@
 - IP Pinger
 - DDoS Tool
 
-## Versions
-- [Batch](https://github.com/JasonType/WinDevTools/tree/Batch)
-- [Python](https://github.com/JasonType/WinDevTools/tree/Python)
-
 ## Requirements
 
 ### Batch Version
@@ -57,6 +53,10 @@
 ### Python Version
 - Python 3.10 or higher
 - Windows 10 / 11
+
+## Versions
+- [Batch](https://github.com/JasonType/WinDevTools/tree/Batch)
+- [Python](https://github.com/JasonType/WinDevTools/tree/Python)
     
 
 ## Contributors ✨
