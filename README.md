@@ -59,11 +59,11 @@
 
 ## Versions
 
-<p align="center">
+<h3 align="center">
     <a href="https://github.com/JasonType/WinDevTools/tree/Batch">Batch</a>
     |
     <a href="https://github.com/JasonType/WinDevTools/tree/Python">Python</a>   
-</p>    
+</h3>    
 
 ## Contributors ✨
 
