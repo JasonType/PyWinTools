@@ -6,7 +6,7 @@
 
 <p align="center">
 <a href="https://github.com/JasonType/PyWinTools/blob/main/JasonType_License.txt" target="blank">
-<img src="https://img.shields.io/badge/licence-JTL?style=flat-square" alt="licence" />
+<img src="https://img.shields.io/badge/license-JTL-blue?style=flat-square" alt="licence" />
 </a>
 <a href="https://github.com/JasonType/PyWinTools/blob/main/CODE_OF_CONDUCT.md" target="blank">
 <img src="https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg?style=flat-square" alt="code of conduct"/>
