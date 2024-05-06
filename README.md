@@ -8,8 +8,8 @@
 <a href="https://github.com/JasonType/PyWinTools/blob/main/JasonType_License.txt" target="blank">
 <img src="https://img.shields.io/github/license/JasonType/PyWinTools?style=flat-square" alt="licence" />
 </a>
-<a href="https://github.com/JasonType/PyWinTools/fork" target="blank">
-<img src="https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg" alt="forks"/>
+<a href="https://github.com/JasonType/PyWinTools/blob/main/CODE_OF_CONDUCT.md" target="blank">
+<img src="https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg?style=flat-square" alt="code of conduct"/>
 </a>
 <a href="https://github.com/JasonType/PyWinTools/fork" target="blank">
 <img src="https://img.shields.io/github/forks/JasonType/PyWinTools?style=flat-square" alt="forks"/>
