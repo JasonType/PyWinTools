@@ -1,6 +1,6 @@
 <div align="center">
 <img width="150px" src="Icons/icon.png" alt="WinDevTools" />
-<h2 align="center">WinDevTools</h2>
+<h2 align="center">PyWinTools</h2>
 <h3 align="center">A Tool that makes geting Info Esay for Windows 10 / 11</h3>
 </div>
 
