@@ -52,25 +52,8 @@
 - DDoS Tool
 
 ## Requirements
-
-### Batch Version
-- Windows 10 / 11
-
-### Python Version
 - Python 3.10 or higher
 - Windows 10 / 11
-
-## Versions
-
-<h4 align="center">
-    Select
-</h4>
-
-<h3 align="center">
-    <a href="https://github.com/JasonType/PyWinTools/tree/Batch">Batch</a>
-   |
-    <a href="https://github.com/JasonType/PyWinTools/tree/Python">Python</a>   
-</h3>    
 
 ## Contributors ✨
 
