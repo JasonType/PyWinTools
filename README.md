@@ -11,6 +11,9 @@
 <a href="https://github.com/JasonType/WinDevTools/fork" target="blank">
 <img src="https://img.shields.io/github/forks/JasonType/WinDevTools?style=flat-square" alt="forks"/>
 </a>
+<a href="https://github.com/JasonType/WinDevTools/fork" target="blank">
+<img src="https://img.shields.io/github/forks/JasonType/WinDevTools?style=flat-square" alt="forks"/>
+</a>
 <a href="https://github.com/JasonType/WinDevTools/stargazers" target="blank">
 <img src="https://img.shields.io/github/stars/JasonType/WinDevTools?style=flat-square" alt="stars"/>
 </a>
