@@ -5,23 +5,23 @@
 </div>
 
 <p align="center">
-<a href="https://github.com/JasonType/WinDevTools/blob/main/LICENSE" target="blank">
-<img src="https://img.shields.io/github/license/JasonType/WinDevTools?style=flat-square" alt="licence" />
+<a href="https://github.com/JasonType/PyWinTools/blob/main/LICENSE" target="blank">
+<img src="https://img.shields.io/github/license/JasonType/PyWinTools?style=flat-square" alt="licence" />
 </a>
-<a href="https://github.com/JasonType/WinDevTools/fork" target="blank">
-<img src="https://img.shields.io/github/forks/JasonType/WinDevTools?style=flat-square" alt="forks"/>
+<a href="https://github.com/JasonType/PyWinTools/fork" target="blank">
+<img src="https://img.shields.io/github/forks/JasonType/PyWinTools?style=flat-square" alt="forks"/>
 </a>
-<a href="https://github.com/JasonType/WinDevTools/fork" target="blank">
-<img src="https://img.shields.io/github/forks/JasonType/WinDevTools?style=flat-square" alt="forks"/>
+<a href="https://github.com/JasonType/PyWinTools/fork" target="blank">
+<img src="https://img.shields.io/github/forks/JasonType/PyWinTools?style=flat-square" alt="forks"/>
 </a>
-<a href="https://github.com/JasonType/WinDevTools/stargazers" target="blank">
-<img src="https://img.shields.io/github/stars/JasonType/WinDevTools?style=flat-square" alt="stars"/>
+<a href="https://github.com/JasonType/PyWinTools/stargazers" target="blank">
+<img src="https://img.shields.io/github/stars/JasonType/PyWinTools?style=flat-square" alt="stars"/>
 </a>
-<a href="https://github.com/JasonType/WinDevTools/issues" target="blank">
-<img src="https://img.shields.io/github/issues/JasonType/WinDevTools?style=flat-square" alt="issues" />
+<a href="https://github.com/JasonType/PyWinTools/issues" target="blank">
+<img src="https://img.shields.io/github/issues/JasonType/PyWinTools?style=flat-square" alt="issues" />
 </a>
-<a href="https://github.com/JasonType/WinDevTools/pulls" target="blank">
-<img src="https://img.shields.io/github/issues-pr/JasonType/WinDevTools?style=flat-square" alt="pull-requests"/>
+<a href="https://github.com/JasonType/PyWinTools/pulls" target="blank">
+<img src="https://img.shields.io/github/issues-pr/JasonType/PyWinTools?style=flat-square" alt="pull-requests"/>
 </a>
 
 
