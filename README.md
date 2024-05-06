@@ -26,11 +26,11 @@
 
 
 <p align="center">
-    <a href="https://github.com/JasonType/WinDevTools/issues/new/choose">Report Bug</a>
+    <a href="https://github.com/JasonType/PyWinTools/issues/new/choose">Report Bug</a>
     ·
-    <a href="https://github.com/JasonType/WinDevTools/issues/new/choose">Request Feature</a>
+    <a href="https://github.com/JasonType/PyWinTools/issues/new/choose">Request Feature</a>
     ·
-    <a href="https://github.com/JasonType/WinDevTools/issues/new/choose">Security Vulnerability</a>
+    <a href="https://github.com/JasonType/PyWinTools/issues/new/choose">Security Vulnerability</a>
    
 </p>
 
@@ -67,9 +67,9 @@
 </h4>
 
 <h3 align="center">
-    <a href="https://github.com/JasonType/WinDevTools/tree/Batch">Batch</a>
+    <a href="https://github.com/JasonType/PyWinTools/tree/Batch">Batch</a>
    |
-    <a href="https://github.com/JasonType/WinDevTools/tree/Python">Python</a>   
+    <a href="https://github.com/JasonType/PyWinTools/tree/Python">Python</a>   
 </h3>    
 
 ## Contributors ✨
@@ -81,7 +81,7 @@
 <!-- markdownlint-disable -->
 <table align="center">
   <tr>
-    <td align="center"><a href="https://github.com/JasonType"><img src="https://avatars.githubusercontent.com/u/51136022?v=4?s=100" width="100px;" alt=""/><br /><sub><b>JasonType</b></sub></a><br /><a href="https://github.com/JasonType/WinDevTools/commits?author=JasonType" title="Code">💻</a> <a href="#security-JasonType" title="Security">🛡️</a> <a href="#data-JasonType" title="Data">🔣</a> <a href="#ideas-JasonType" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/JasonType"><img src="https://avatars.githubusercontent.com/u/51136022?v=4?s=100" width="100px;" alt=""/><br /><sub><b>JasonType</b></sub></a><br /><a href="https://github.com/JasonType/PyWinTools/commits?author=JasonType" title="Code">💻</a> <a href="#security-JasonType" title="Security">🛡️</a> <a href="#data-JasonType" title="Data">🔣</a> <a href="#ideas-JasonType" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 
