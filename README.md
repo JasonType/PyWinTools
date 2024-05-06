@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/github/license/JasonType/PyWinTools?style=flat-square" alt="licence" />
 </a>
 <a href="https://github.com/JasonType/PyWinTools/fork" target="blank">
-<img src="https://img.shields.io/github/forks/JasonType/PyWinTools?style=flat-square" alt="forks"/>
+<img src="https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg" alt="forks"/>
 </a>
 <a href="https://github.com/JasonType/PyWinTools/fork" target="blank">
 <img src="https://img.shields.io/github/forks/JasonType/PyWinTools?style=flat-square" alt="forks"/>
