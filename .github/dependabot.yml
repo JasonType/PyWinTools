@@ -9,6 +9,6 @@ updates:
     directory: "/" # Location of package manifests
     schedule:
       interval: "daily"
-    target-branch: "Python"
+    target-branch: "main"
     labels:
       "pip dependencies"
