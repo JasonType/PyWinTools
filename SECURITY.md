@@ -4,7 +4,7 @@
 
 | Version       | Supported          |
 | ------------- | ------------------ |
-|  Python       |   Windows 10 / 11  |
+|  Python       |  3.10 or higher    |
 ## Reporting a Vulnerability
 
 Reporting a Vulnerability you can do this by Issues tab and then Choose the Issue Tamplate ```Security Vulnerability```
